@@ -1,7 +1,7 @@
 # 🤖 Anthropic Claude Code - Complete Feedback Sessions
 ## Star51 Nova Admin CMS Development
 
-**Author**: Daniele D'Andreti (lostinflowers@gmail.com)
+**Author**: Daniele D'Andreti
 **GitHub**: @danieledandreti
 **Project**: Star51 Nova Admin - PHP/MySQL CMS with Universal Collection System
 **Period**: September - October 2025
@@ -1456,7 +1456,7 @@ If there's a dedicated feedback email for detailed case studies, this comprehens
 
 ---
 
-**Prepared by**: Daniele D'Andreti (lostinflowers@gmail.com)
+**Prepared by**: Daniele D'Andreti
 **GitHub**: @danieledandreti
 **Project**: Star51 Nova Admin CMS
 **Legacy Reference**: Star (guarnimobili_2018A) - Production system with 2,000+ articles
